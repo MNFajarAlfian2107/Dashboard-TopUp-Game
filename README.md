@@ -1,5 +1,5 @@
 # Dashboard-TopUp-Game
-# 🎮 Top Up K2
+# 🎮 Top Up
 
 Top Up K2 adalah aplikasi web top up game berbasis Django yang dirancang untuk memudahkan pengguna dalam melakukan pembelian item game secara online. Aplikasi ini menyediakan layanan top up untuk beberapa game populer seperti Mobile Legends, Free Fire, PUBG Mobile, FC Mobile, dan Higgs Domino dengan berbagai pilihan nominal dan metode pembayaran.
 
