@@ -53,7 +53,7 @@ Selain berfungsi sebagai simulasi website top up game, proyek ini juga menunjukk
 ## 📂 Struktur Project
 
 ```text
-TopUpK2/
+TopUp/
 │
 ├── config/
 │   ├── settings.py
@@ -155,7 +155,7 @@ git clone https://github.com/username/topup-k2.git
 ### 2. Masuk ke Folder Project
 
 ```bash
-cd TopUpK2
+cd TopUp
 ```
 
 ### 3. Buat Virtual Environment
