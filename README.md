@@ -201,10 +201,15 @@ http://127.0.0.1:8000
 ## 📸 Fitur yang Tersedia
 
 ✅ Dashboard Top Up Game
+
 ✅ Popup Pembayaran
+
 ✅ Riwayat Transaksi
+
 ✅ Penyimpanan Database
+
 ✅ Implementasi OOP
+
 ✅ Responsive Design
 
 ---
